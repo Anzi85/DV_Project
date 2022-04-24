@@ -1,0 +1,332 @@
+{
+   "2019": [
+      {
+         "Month": "2019-01",
+         "Number of Bike Rental": 679520,
+         "Average Hire Time (mins)": 18,
+         "Monthly Change": null,
+         "Monthly Change %": null,
+         "Annual Change": null,
+         "Annual Change %": null
+      },
+      {
+         "Month": "2019-02",
+         "Number of Bike Rental": 691770,
+         "Average Hire Time (mins)": 20,
+         "Monthly Change": "12250",
+         "Monthly Change %": "1.8027431127855",
+         "Annual Change": null,
+         "Annual Change %": null
+      },
+      {
+         "Month": "2019-03",
+         "Number of Bike Rental": 784410,
+         "Average Hire Time (mins)": 17,
+         "Monthly Change": "92640",
+         "Monthly Change %": "13.3917342469318",
+         "Annual Change": null,
+         "Annual Change %": null
+      },
+      {
+         "Month": "2019-04",
+         "Number of Bike Rental": 880513,
+         "Average Hire Time (mins)": 17,
+         "Monthly Change": "96103",
+         "Monthly Change %": "12.2516286125878",
+         "Annual Change": null,
+         "Annual Change %": null
+      },
+      {
+         "Month": "2019-05",
+         "Number of Bike Rental": 995968,
+         "Average Hire Time (mins)": 19,
+         "Monthly Change": "115455",
+         "Monthly Change %": "13.1122425222569",
+         "Annual Change": null,
+         "Annual Change %": null
+      },
+      {
+         "Month": "2019-06",
+         "Number of Bike Rental": 993706,
+         "Average Hire Time (mins)": 22,
+         "Monthly Change": "-2262",
+         "Monthly Change %": "-0.227115730625884",
+         "Annual Change": null,
+         "Annual Change %": null
+      },
+      {
+         "Month": "2019-07",
+         "Number of Bike Rental": 1138703,
+         "Average Hire Time (mins)": 21,
+         "Monthly Change": "144997",
+         "Monthly Change %": "14.5915391473937",
+         "Annual Change": null,
+         "Annual Change %": null
+      },
+      {
+         "Month": "2019-08",
+         "Number of Bike Rental": 1041301,
+         "Average Hire Time (mins)": 22,
+         "Monthly Change": "-97402",
+         "Monthly Change %": "-8.55376687336382",
+         "Annual Change": null,
+         "Annual Change %": null
+      },
+      {
+         "Month": "2019-09",
+         "Number of Bike Rental": 955206,
+         "Average Hire Time (mins)": 19,
+         "Monthly Change": "-86095",
+         "Monthly Change %": "-8.26802240658561",
+         "Annual Change": null,
+         "Annual Change %": null
+      },
+      {
+         "Month": "2019-10",
+         "Number of Bike Rental": 841772,
+         "Average Hire Time (mins)": 17,
+         "Monthly Change": "-113434",
+         "Monthly Change %": "-11.8753441665986",
+         "Annual Change": null,
+         "Annual Change %": null
+      },
+      {
+         "Month": "2019-11",
+         "Number of Bike Rental": 721661,
+         "Average Hire Time (mins)": 15,
+         "Monthly Change": "-120111",
+         "Monthly Change %": "-14.2688281387359",
+         "Annual Change": null,
+         "Annual Change %": null
+      },
+      {
+         "Month": "2019-12",
+         "Number of Bike Rental": 585492,
+         "Average Hire Time (mins)": 17,
+         "Monthly Change": "-136169",
+         "Monthly Change %": "-18.8688317644988",
+         "Annual Change": null,
+         "Annual Change %": null
+      }
+   ],
+   "2020": [
+      {
+         "Month": "2020-01",
+         "Number of Bike Rental": 702683,
+         "Average Hire Time (mins)": 16,
+         "Monthly Change": "117191",
+         "Monthly Change %": "20.0158157583707",
+         "Annual Change": "23163",
+         "Annual Change %": "3.40872969154697"
+      },
+      {
+         "Month": "2020-02",
+         "Number of Bike Rental": 634646,
+         "Average Hire Time (mins)": 19,
+         "Monthly Change": "-68037",
+         "Monthly Change %": "-9.68245994281917",
+         "Annual Change": "-57124",
+         "Annual Change %": "-8.25765789207395"
+      },
+      {
+         "Month": "2020-03",
+         "Number of Bike Rental": 547830,
+         "Average Hire Time (mins)": 19,
+         "Monthly Change": "-86816",
+         "Monthly Change %": "-13.6794370404919",
+         "Annual Change": "-236580",
+         "Annual Change %": "-30.1602478295789"
+      },
+      {
+         "Month": "2020-04",
+         "Number of Bike Rental": 582788,
+         "Average Hire Time (mins)": 36,
+         "Monthly Change": "34958",
+         "Monthly Change %": "6.38117664238906",
+         "Annual Change": "-297725",
+         "Annual Change %": "-33.8126751109864"
+      },
+      {
+         "Month": "2020-05",
+         "Number of Bike Rental": 1102153,
+         "Average Hire Time (mins)": 35,
+         "Monthly Change": "519365",
+         "Monthly Change %": "89.117311955634",
+         "Annual Change": "106185",
+         "Annual Change %": "10.6614871160519"
+      },
+      {
+         "Month": "2020-06",
+         "Number of Bike Rental": 1139072,
+         "Average Hire Time (mins)": 32,
+         "Monthly Change": "36919",
+         "Monthly Change %": "3.34971641868234",
+         "Annual Change": "145366",
+         "Annual Change %": "14.6286728670251"
+      },
+      {
+         "Month": "2020-07",
+         "Number of Bike Rental": 1152311,
+         "Average Hire Time (mins)": 26,
+         "Monthly Change": "13239",
+         "Monthly Change %": "1.16226191145072",
+         "Annual Change": "13608",
+         "Annual Change %": "1.1950438349596"
+      },
+      {
+         "Month": "2020-08",
+         "Number of Bike Rental": 1136433,
+         "Average Hire Time (mins)": 24,
+         "Monthly Change": "-15878",
+         "Monthly Change %": "-1.37792661876872",
+         "Annual Change": "95132",
+         "Annual Change %": "9.13587905898487"
+      },
+      {
+         "Month": "2020-09",
+         "Number of Bike Rental": 1120897,
+         "Average Hire Time (mins)": 23,
+         "Monthly Change": "-15536",
+         "Monthly Change %": "-1.36708455315888",
+         "Annual Change": "165691",
+         "Annual Change %": "17.346101259833"
+      },
+      {
+         "Month": "2020-10",
+         "Number of Bike Rental": 837070,
+         "Average Hire Time (mins)": 19,
+         "Monthly Change": "-283827",
+         "Monthly Change %": "-25.3214166868142",
+         "Annual Change": "-4702",
+         "Annual Change %": "-0.55858355944365"
+      },
+      {
+         "Month": "2020-11",
+         "Number of Bike Rental": 749763,
+         "Average Hire Time (mins)": 23,
+         "Monthly Change": "-87307",
+         "Monthly Change %": "-10.4300715591289",
+         "Annual Change": "28102",
+         "Annual Change %": "3.89407214744873"
+      },
+      {
+         "Month": "2020-12",
+         "Number of Bike Rental": 581393,
+         "Average Hire Time (mins)": 17,
+         "Monthly Change": "-168370",
+         "Monthly Change %": "-22.4564295650759",
+         "Annual Change": "-4099",
+         "Annual Change %": "-0.700094962868835"
+      }
+   ],
+   "2021": [
+      {
+         "Month": "2021-01",
+         "Number of Bike Rental": 405015,
+         "Average Hire Time (mins)": 17,
+         "Monthly Change": "-176378",
+         "Monthly Change %": "-30.3371385620398",
+         "Annual Change": "-297668",
+         "Annual Change %": "-42.3616339088892"
+      },
+      {
+         "Month": "2021-02",
+         "Number of Bike Rental": 504154,
+         "Average Hire Time (mins)": 21,
+         "Monthly Change": "99139",
+         "Monthly Change %": "24.4778588447341",
+         "Annual Change": "-130492",
+         "Annual Change %": "-20.5613838265742"
+      },
+      {
+         "Month": "2021-03",
+         "Number of Bike Rental": 738522,
+         "Average Hire Time (mins)": 26,
+         "Monthly Change": "234368",
+         "Monthly Change %": "46.4873828235023",
+         "Annual Change": "190692",
+         "Annual Change %": "34.8086085099392"
+      },
+      {
+         "Month": "2021-04",
+         "Number of Bike Rental": 930934,
+         "Average Hire Time (mins)": 25,
+         "Monthly Change": "192412",
+         "Monthly Change %": "26.0536585233751",
+         "Annual Change": "348146",
+         "Annual Change %": "59.738017941344"
+      },
+      {
+         "Month": "2021-05",
+         "Number of Bike Rental": 912059,
+         "Average Hire Time (mins)": 22,
+         "Monthly Change": "-18875",
+         "Monthly Change %": "-2.02753363826007",
+         "Annual Change": "-190094",
+         "Annual Change %": "-17.24751463726"
+      },
+      {
+         "Month": "2021-06",
+         "Number of Bike Rental": 1169603,
+         "Average Hire Time (mins)": 21,
+         "Monthly Change": "257544",
+         "Monthly Change %": "28.2376469066146",
+         "Annual Change": "30531",
+         "Annual Change %": "2.68033978536914"
+      },
+      {
+         "Month": "2021-07",
+         "Number of Bike Rental": 1155434,
+         "Average Hire Time (mins)": 21,
+         "Monthly Change": "-14169",
+         "Monthly Change %": "-1.21143670117125",
+         "Annual Change": "3123",
+         "Annual Change %": "0.271020583852797"
+      },
+      {
+         "Month": "2021-08",
+         "Number of Bike Rental": 1098972,
+         "Average Hire Time (mins)": 22,
+         "Monthly Change": "-56462",
+         "Monthly Change %": "-4.88664865323333",
+         "Annual Change": "-37461",
+         "Annual Change %": "-3.29636678977115"
+      },
+      {
+         "Month": "2021-09",
+         "Number of Bike Rental": 1208914,
+         "Average Hire Time (mins)": 20,
+         "Monthly Change": "109942",
+         "Monthly Change %": "10.0040765369818",
+         "Annual Change": "88017",
+         "Annual Change %": "7.85237180579482"
+      },
+      {
+         "Month": "2021-10",
+         "Number of Bike Rental": 1099712,
+         "Average Hire Time (mins)": 18,
+         "Monthly Change": "-109202",
+         "Monthly Change %": "-9.03306604109143",
+         "Annual Change": "262642",
+         "Annual Change %": "31.3763484535344"
+      },
+      {
+         "Month": "2021-11",
+         "Number of Bike Rental": 936941,
+         "Average Hire Time (mins)": 16,
+         "Monthly Change": "-162771",
+         "Monthly Change %": "-14.8012388698132",
+         "Annual Change": "187178",
+         "Annual Change %": "24.9649555926339"
+      },
+      {
+         "Month": "2021-12",
+         "Number of Bike Rental": 660199,
+         "Average Hire Time (mins)": 18,
+         "Monthly Change": "-276742",
+         "Monthly Change %": "-29.5367584511725",
+         "Annual Change": "78806",
+         "Annual Change %": "13.5546867609345"
+      }
+   ]
+}
