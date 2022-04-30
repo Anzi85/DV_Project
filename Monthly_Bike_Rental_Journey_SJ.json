@@ -4,251 +4,287 @@
    "Month": "2019-01",
    "JOURNEY_TYPE": "Same Destination",
    "Average Hire Time (Mins)": 41,
-   "Average Hire Distance (Meters)": 0
+   "Average Hire Distance (Meters)": 0,
+   "Number of Bike Rental": 15568
  },
  {
    "Year": 2019,
    "Month": "2019-02",
    "JOURNEY_TYPE": "Same Destination",
    "Average Hire Time (Mins)": 47,
-   "Average Hire Distance (Meters)": 0
+   "Average Hire Distance (Meters)": 0,
+   "Number of Bike Rental": 20744
  },
  {
    "Year": 2019,
    "Month": "2019-03",
    "JOURNEY_TYPE": "Same Destination",
    "Average Hire Time (Mins)": 45,
-   "Average Hire Distance (Meters)": 0
+   "Average Hire Distance (Meters)": 0,
+   "Number of Bike Rental": 21598
  },
  {
    "Year": 2019,
    "Month": "2019-04",
    "JOURNEY_TYPE": "Same Destination",
    "Average Hire Time (Mins)": 52,
-   "Average Hire Distance (Meters)": 0
+   "Average Hire Distance (Meters)": 0,
+   "Number of Bike Rental": 36454
  },
  {
    "Year": 2019,
    "Month": "2019-05",
    "JOURNEY_TYPE": "Same Destination",
    "Average Hire Time (Mins)": 50,
-   "Average Hire Distance (Meters)": 0
+   "Average Hire Distance (Meters)": 0,
+   "Number of Bike Rental": 34665
  },
  {
    "Year": 2019,
    "Month": "2019-06",
    "JOURNEY_TYPE": "Same Destination",
    "Average Hire Time (Mins)": 51,
-   "Average Hire Distance (Meters)": 0
+   "Average Hire Distance (Meters)": 0,
+   "Number of Bike Rental": 40010
  },
  {
    "Year": 2019,
    "Month": "2019-07",
    "JOURNEY_TYPE": "Same Destination",
    "Average Hire Time (Mins)": 53,
-   "Average Hire Distance (Meters)": 0
+   "Average Hire Distance (Meters)": 0,
+   "Number of Bike Rental": 49413
  },
  {
    "Year": 2019,
    "Month": "2019-08",
    "JOURNEY_TYPE": "Same Destination",
    "Average Hire Time (Mins)": 53,
-   "Average Hire Distance (Meters)": 0
+   "Average Hire Distance (Meters)": 0,
+   "Number of Bike Rental": 53330
  },
  {
    "Year": 2019,
    "Month": "2019-09",
    "JOURNEY_TYPE": "Same Destination",
    "Average Hire Time (Mins)": 48,
-   "Average Hire Distance (Meters)": 0
+   "Average Hire Distance (Meters)": 0,
+   "Number of Bike Rental": 31853
  },
  {
    "Year": 2019,
    "Month": "2019-10",
    "JOURNEY_TYPE": "Same Destination",
    "Average Hire Time (Mins)": 42,
-   "Average Hire Distance (Meters)": 0
+   "Average Hire Distance (Meters)": 0,
+   "Number of Bike Rental": 20007
  },
  {
    "Year": 2019,
    "Month": "2019-11",
    "JOURNEY_TYPE": "Same Destination",
    "Average Hire Time (Mins)": 37,
-   "Average Hire Distance (Meters)": 0
+   "Average Hire Distance (Meters)": 0,
+   "Number of Bike Rental": 14036
  },
  {
    "Year": 2019,
    "Month": "2019-12",
    "JOURNEY_TYPE": "Same Destination",
    "Average Hire Time (Mins)": 46,
-   "Average Hire Distance (Meters)": 0
+   "Average Hire Distance (Meters)": 0,
+   "Number of Bike Rental": 17306
  },
  {
    "Year": 2020,
    "Month": "2020-01",
    "JOURNEY_TYPE": "Same Destination",
    "Average Hire Time (Mins)": 42,
-   "Average Hire Distance (Meters)": 0
+   "Average Hire Distance (Meters)": 0,
+   "Number of Bike Rental": 16603
  },
  {
    "Year": 2020,
    "Month": "2020-02",
    "JOURNEY_TYPE": "Same Destination",
    "Average Hire Time (Mins)": 38,
-   "Average Hire Distance (Meters)": 0
+   "Average Hire Distance (Meters)": 0,
+   "Number of Bike Rental": 14131
  },
  {
    "Year": 2020,
    "Month": "2020-03",
    "JOURNEY_TYPE": "Same Destination",
    "Average Hire Time (Mins)": 53,
-   "Average Hire Distance (Meters)": 0
+   "Average Hire Distance (Meters)": 0,
+   "Number of Bike Rental": 29344
  },
  {
    "Year": 2020,
    "Month": "2020-04",
    "JOURNEY_TYPE": "Same Destination",
    "Average Hire Time (Mins)": 76,
-   "Average Hire Distance (Meters)": 0
+   "Average Hire Distance (Meters)": 0,
+   "Number of Bike Rental": 92209
  },
  {
    "Year": 2020,
    "Month": "2020-05",
    "JOURNEY_TYPE": "Same Destination",
    "Average Hire Time (Mins)": 87,
-   "Average Hire Distance (Meters)": 0
+   "Average Hire Distance (Meters)": 0,
+   "Number of Bike Rental": 139416
  },
  {
    "Year": 2020,
    "Month": "2020-06",
    "JOURNEY_TYPE": "Same Destination",
    "Average Hire Time (Mins)": 70,
-   "Average Hire Distance (Meters)": 0
+   "Average Hire Distance (Meters)": 0,
+   "Number of Bike Rental": 107153
  },
  {
    "Year": 2020,
    "Month": "2020-07",
    "JOURNEY_TYPE": "Same Destination",
    "Average Hire Time (Mins)": 53,
-   "Average Hire Distance (Meters)": 0
+   "Average Hire Distance (Meters)": 0,
+   "Number of Bike Rental": 83644
  },
  {
    "Year": 2020,
    "Month": "2020-08",
    "JOURNEY_TYPE": "Same Destination",
    "Average Hire Time (Mins)": 50,
-   "Average Hire Distance (Meters)": 0
+   "Average Hire Distance (Meters)": 0,
+   "Number of Bike Rental": 76301
  },
  {
    "Year": 2020,
    "Month": "2020-09",
    "JOURNEY_TYPE": "Same Destination",
    "Average Hire Time (Mins)": 48,
-   "Average Hire Distance (Meters)": 0
+   "Average Hire Distance (Meters)": 0,
+   "Number of Bike Rental": 55879
  },
  {
    "Year": 2020,
    "Month": "2020-10",
    "JOURNEY_TYPE": "Same Destination",
    "Average Hire Time (Mins)": 42,
-   "Average Hire Distance (Meters)": 0
+   "Average Hire Distance (Meters)": 0,
+   "Number of Bike Rental": 37055
  },
  {
    "Year": 2020,
    "Month": "2020-11",
    "JOURNEY_TYPE": "Same Destination",
    "Average Hire Time (Mins)": 52,
-   "Average Hire Distance (Meters)": 0
+   "Average Hire Distance (Meters)": 0,
+   "Number of Bike Rental": 48945
  },
  {
    "Year": 2020,
    "Month": "2020-12",
    "JOURNEY_TYPE": "Same Destination",
    "Average Hire Time (Mins)": 49,
-   "Average Hire Distance (Meters)": 0
+   "Average Hire Distance (Meters)": 0,
+   "Number of Bike Rental": 35011
  },
  {
    "Year": 2021,
    "Month": "2021-01",
    "JOURNEY_TYPE": "Same Destination",
    "Average Hire Time (Mins)": 51,
-   "Average Hire Distance (Meters)": 0
+   "Average Hire Distance (Meters)": 0,
+   "Number of Bike Rental": 31935
  },
  {
    "Year": 2021,
    "Month": "2021-02",
    "JOURNEY_TYPE": "Same Destination",
    "Average Hire Time (Mins)": 54,
-   "Average Hire Distance (Meters)": 0
+   "Average Hire Distance (Meters)": 0,
+   "Number of Bike Rental": 40789
  },
  {
    "Year": 2021,
    "Month": "2021-03",
    "JOURNEY_TYPE": "Same Destination",
    "Average Hire Time (Mins)": 52,
-   "Average Hire Distance (Meters)": 0
+   "Average Hire Distance (Meters)": 0,
+   "Number of Bike Rental": 58641
  },
  {
    "Year": 2021,
    "Month": "2021-04",
    "JOURNEY_TYPE": "Same Destination",
    "Average Hire Time (Mins)": 51,
-   "Average Hire Distance (Meters)": 0
+   "Average Hire Distance (Meters)": 0,
+   "Number of Bike Rental": 65371
  },
  {
    "Year": 2021,
    "Month": "2021-05",
    "JOURNEY_TYPE": "Same Destination",
    "Average Hire Time (Mins)": 47,
-   "Average Hire Distance (Meters)": 0
+   "Average Hire Distance (Meters)": 0,
+   "Number of Bike Rental": 45797
  },
  {
    "Year": 2021,
    "Month": "2021-06",
    "JOURNEY_TYPE": "Same Destination",
    "Average Hire Time (Mins)": 43,
-   "Average Hire Distance (Meters)": 0
+   "Average Hire Distance (Meters)": 0,
+   "Number of Bike Rental": 62633
  },
  {
    "Year": 2021,
    "Month": "2021-07",
    "JOURNEY_TYPE": "Same Destination",
    "Average Hire Time (Mins)": 42,
-   "Average Hire Distance (Meters)": 0
+   "Average Hire Distance (Meters)": 0,
+   "Number of Bike Rental": 59379
  },
  {
    "Year": 2021,
    "Month": "2021-08",
    "JOURNEY_TYPE": "Same Destination",
    "Average Hire Time (Mins)": 41,
-   "Average Hire Distance (Meters)": 0
+   "Average Hire Distance (Meters)": 0,
+   "Number of Bike Rental": 61308
  },
  {
    "Year": 2021,
    "Month": "2021-09",
    "JOURNEY_TYPE": "Same Destination",
    "Average Hire Time (Mins)": 40,
-   "Average Hire Distance (Meters)": 0
+   "Average Hire Distance (Meters)": 0,
+   "Number of Bike Rental": 47938
  },
  {
    "Year": 2021,
    "Month": "2021-10",
    "JOURNEY_TYPE": "Same Destination",
    "Average Hire Time (Mins)": 39,
-   "Average Hire Distance (Meters)": 0
+   "Average Hire Distance (Meters)": 0,
+   "Number of Bike Rental": 37077
  },
  {
    "Year": 2021,
    "Month": "2021-11",
    "JOURNEY_TYPE": "Same Destination",
    "Average Hire Time (Mins)": 34,
-   "Average Hire Distance (Meters)": 0
+   "Average Hire Distance (Meters)": 0,
+   "Number of Bike Rental": 24757
  },
  {
    "Year": 2021,
    "Month": "2021-12",
    "JOURNEY_TYPE": "Same Destination",
    "Average Hire Time (Mins)": 38,
-   "Average Hire Distance (Meters)": 0
+   "Average Hire Distance (Meters)": 0,
+   "Number of Bike Rental": 25501
  }
 ]
