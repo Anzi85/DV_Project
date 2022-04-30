@@ -3,6 +3,7 @@
    "Year": 2019,
    "Month": "2019-01",
    "MONTH_2": 1,
+   "quarter": 1,
    "Number of Bike Rental": 679520,
    "Average Hire Time (Mins)": 16
  },
@@ -10,6 +11,7 @@
    "Year": 2019,
    "Month": "2019-02",
    "MONTH_2": 2,
+   "quarter": 1,
    "Number of Bike Rental": 691770,
    "Average Hire Time (Mins)": 18
  },
@@ -17,6 +19,7 @@
    "Year": 2019,
    "Month": "2019-03",
    "MONTH_2": 3,
+   "quarter": 1,
    "Number of Bike Rental": 784410,
    "Average Hire Time (Mins)": 18
  },
@@ -24,6 +27,7 @@
    "Year": 2019,
    "Month": "2019-04",
    "MONTH_2": 4,
+   "quarter": 2,
    "Number of Bike Rental": 880513,
    "Average Hire Time (Mins)": 21
  },
@@ -31,6 +35,7 @@
    "Year": 2019,
    "Month": "2019-05",
    "MONTH_2": 5,
+   "quarter": 2,
    "Number of Bike Rental": 995968,
    "Average Hire Time (Mins)": 20
  },
@@ -38,6 +43,7 @@
    "Year": 2019,
    "Month": "2019-06",
    "MONTH_2": 6,
+   "quarter": 2,
    "Number of Bike Rental": 993706,
    "Average Hire Time (Mins)": 21
  },
@@ -45,6 +51,7 @@
    "Year": 2019,
    "Month": "2019-07",
    "MONTH_2": 7,
+   "quarter": 3,
    "Number of Bike Rental": 1138703,
    "Average Hire Time (Mins)": 22
  },
@@ -52,6 +59,7 @@
    "Year": 2019,
    "Month": "2019-08",
    "MONTH_2": 8,
+   "quarter": 3,
    "Number of Bike Rental": 1041301,
    "Average Hire Time (Mins)": 23
  },
@@ -59,6 +67,7 @@
    "Year": 2019,
    "Month": "2019-09",
    "MONTH_2": 9,
+   "quarter": 3,
    "Number of Bike Rental": 955206,
    "Average Hire Time (Mins)": 19
  },
@@ -66,6 +75,7 @@
    "Year": 2019,
    "Month": "2019-10",
    "MONTH_2": 10,
+   "quarter": 4,
    "Number of Bike Rental": 841772,
    "Average Hire Time (Mins)": 18
  },
@@ -73,6 +83,7 @@
    "Year": 2019,
    "Month": "2019-11",
    "MONTH_2": 11,
+   "quarter": 4,
    "Number of Bike Rental": 721661,
    "Average Hire Time (Mins)": 16
  },
@@ -80,6 +91,7 @@
    "Year": 2019,
    "Month": "2019-12",
    "MONTH_2": 12,
+   "quarter": 4,
    "Number of Bike Rental": 585492,
    "Average Hire Time (Mins)": 19
  },
@@ -87,6 +99,7 @@
    "Year": 2020,
    "Month": "2020-01",
    "MONTH_2": 1,
+   "quarter": 1,
    "Number of Bike Rental": 702683,
    "Average Hire Time (Mins)": 16
  },
@@ -94,6 +107,7 @@
    "Year": 2020,
    "Month": "2020-02",
    "MONTH_2": 2,
+   "quarter": 1,
    "Number of Bike Rental": 634646,
    "Average Hire Time (Mins)": 16
  },
@@ -101,6 +115,7 @@
    "Year": 2020,
    "Month": "2020-03",
    "MONTH_2": 3,
+   "quarter": 1,
    "Number of Bike Rental": 547830,
    "Average Hire Time (Mins)": 20
  },
@@ -108,6 +123,7 @@
    "Year": 2020,
    "Month": "2020-04",
    "MONTH_2": 4,
+   "quarter": 2,
    "Number of Bike Rental": 582788,
    "Average Hire Time (Mins)": 38
  },
@@ -115,6 +131,7 @@
    "Year": 2020,
    "Month": "2020-05",
    "MONTH_2": 5,
+   "quarter": 2,
    "Number of Bike Rental": 1102153,
    "Average Hire Time (Mins)": 42
  },
@@ -122,6 +139,7 @@
    "Year": 2020,
    "Month": "2020-06",
    "MONTH_2": 6,
+   "quarter": 2,
    "Number of Bike Rental": 1139072,
    "Average Hire Time (Mins)": 33
  },
@@ -129,6 +147,7 @@
    "Year": 2020,
    "Month": "2020-07",
    "MONTH_2": 7,
+   "quarter": 3,
    "Number of Bike Rental": 1152311,
    "Average Hire Time (Mins)": 26
  },
@@ -136,6 +155,7 @@
    "Year": 2020,
    "Month": "2020-08",
    "MONTH_2": 8,
+   "quarter": 3,
    "Number of Bike Rental": 1136433,
    "Average Hire Time (Mins)": 25
  },
@@ -143,6 +163,7 @@
    "Year": 2020,
    "Month": "2020-09",
    "MONTH_2": 9,
+   "quarter": 3,
    "Number of Bike Rental": 1120897,
    "Average Hire Time (Mins)": 23
  },
@@ -150,6 +171,7 @@
    "Year": 2020,
    "Month": "2020-10",
    "MONTH_2": 10,
+   "quarter": 4,
    "Number of Bike Rental": 837070,
    "Average Hire Time (Mins)": 20
  },
@@ -157,6 +179,7 @@
    "Year": 2020,
    "Month": "2020-11",
    "MONTH_2": 11,
+   "quarter": 4,
    "Number of Bike Rental": 749763,
    "Average Hire Time (Mins)": 24
  },
@@ -164,6 +187,7 @@
    "Year": 2020,
    "Month": "2020-12",
    "MONTH_2": 12,
+   "quarter": 4,
    "Number of Bike Rental": 581393,
    "Average Hire Time (Mins)": 23
  },
@@ -171,6 +195,7 @@
    "Year": 2021,
    "Month": "2021-01",
    "MONTH_2": 1,
+   "quarter": 1,
    "Number of Bike Rental": 405015,
    "Average Hire Time (Mins)": 24
  },
@@ -178,6 +203,7 @@
    "Year": 2021,
    "Month": "2021-02",
    "MONTH_2": 2,
+   "quarter": 1,
    "Number of Bike Rental": 504154,
    "Average Hire Time (Mins)": 27
  },
@@ -185,6 +211,7 @@
    "Year": 2021,
    "Month": "2021-03",
    "MONTH_2": 3,
+   "quarter": 1,
    "Number of Bike Rental": 738522,
    "Average Hire Time (Mins)": 26
  },
@@ -192,6 +219,7 @@
    "Year": 2021,
    "Month": "2021-04",
    "MONTH_2": 4,
+   "quarter": 2,
    "Number of Bike Rental": 930934,
    "Average Hire Time (Mins)": 26
  },
@@ -199,6 +227,7 @@
    "Year": 2021,
    "Month": "2021-05",
    "MONTH_2": 5,
+   "quarter": 2,
    "Number of Bike Rental": 912059,
    "Average Hire Time (Mins)": 22
  },
@@ -206,6 +235,7 @@
    "Year": 2021,
    "Month": "2021-06",
    "MONTH_2": 6,
+   "quarter": 2,
    "Number of Bike Rental": 1169603,
    "Average Hire Time (Mins)": 22
  },
@@ -213,6 +243,7 @@
    "Year": 2021,
    "Month": "2021-07",
    "MONTH_2": 7,
+   "quarter": 3,
    "Number of Bike Rental": 1155434,
    "Average Hire Time (Mins)": 22
  },
@@ -220,6 +251,7 @@
    "Year": 2021,
    "Month": "2021-08",
    "MONTH_2": 8,
+   "quarter": 3,
    "Number of Bike Rental": 1098972,
    "Average Hire Time (Mins)": 22
  },
@@ -227,6 +259,7 @@
    "Year": 2021,
    "Month": "2021-09",
    "MONTH_2": 9,
+   "quarter": 3,
    "Number of Bike Rental": 1208914,
    "Average Hire Time (Mins)": 20
  },
@@ -234,6 +267,7 @@
    "Year": 2021,
    "Month": "2021-10",
    "MONTH_2": 10,
+   "quarter": 4,
    "Number of Bike Rental": 1099712,
    "Average Hire Time (Mins)": 19
  },
@@ -241,6 +275,7 @@
    "Year": 2021,
    "Month": "2021-11",
    "MONTH_2": 11,
+   "quarter": 4,
    "Number of Bike Rental": 936941,
    "Average Hire Time (Mins)": 17
  },
@@ -248,6 +283,7 @@
    "Year": 2021,
    "Month": "2021-12",
    "MONTH_2": 12,
+   "quarter": 4,
    "Number of Bike Rental": 660199,
    "Average Hire Time (Mins)": 19
  }
