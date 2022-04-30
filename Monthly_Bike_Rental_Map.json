@@ -1,14 +1,54 @@
 [
  {
+   "Borough": "Kingston upon Thames",
+   "Number of Bike Rental": 85883
+ },
+ {
    "Borough": "Tower Hamlets",
-   "Number of Bike Rental": 59
+   "Number of Bike Rental": 3849227
+ },
+ {
+   "Borough": "Islington",
+   "Number of Bike Rental": 1383803
+ },
+ {
+   "Borough": "Southwark",
+   "Number of Bike Rental": 1927209
  },
  {
    "Borough": "City of London",
-   "Number of Bike Rental": 126936
+   "Number of Bike Rental": 1469176
+ },
+ {
+   "Borough": "Newham",
+   "Number of Bike Rental": 38728
+ },
+ {
+   "Borough": "Wandsworth",
+   "Number of Bike Rental": 1943376
+ },
+ {
+   "Borough": "Camden",
+   "Number of Bike Rental": 2703958
+ },
+ {
+   "Borough": "Westminster",
+   "Number of Bike Rental": 7233283
+ },
+ {
+   "Borough": "Kensington and Chelsea",
+   "Number of Bike Rental": 3955306
  },
  {
    "Borough": "Hammersmith and Fulham",
-   "Number of Bike Rental": 31290525
+   "Number of Bike Rental": 2151433
+ },
+ {
+   "Borough": "Lambeth",
+   "Number of Bike Rental": 2627073
+ },
+ {
+   "Borough": "Hackney",
+   "Number of Bike Rental": 2049065
  }
 ]
